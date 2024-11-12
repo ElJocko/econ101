@@ -1,0 +1,8 @@
+goods:
+  number: 3
+producers:
+  number: 20
+consumers:
+  number: 100
+model:
+  steps: 40
